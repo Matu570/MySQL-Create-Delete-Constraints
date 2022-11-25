@@ -1,0 +1,3 @@
+/*
+From our local server we can open PHPMyAdmin
+*/
